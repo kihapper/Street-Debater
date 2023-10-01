@@ -4,7 +4,7 @@ Street debating is a job aimed at bridging the social divide by creating a platf
 See more detail on https://www.tomokihara.com/en/street-debater.html
 
 ### How to make
-Please refer to the PDF for how to create the device.
+Please refer to the **how-to-make.pdf** for how to create the device.
 
 
 
