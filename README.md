@@ -7,4 +7,8 @@ See more detail on https://www.tomokihara.com/en/street-debater.html
 Please refer to the **how-to-make.pdf** for how to create the device.
 
 
+Original model based on the scale by Zenzi Werken 
+https://www.zenziwerken.de/en/Toys/Kids-Toy-Scale
+
+
 
